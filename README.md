@@ -1,4 +1,4 @@
-##3-Axis Robotic Arm I built for an internship
+## 3-Axis Robotic Arm I built for an internship
 
 This robotic arm was assembled from a pre-made kit, and then upgraded with metal gear servos. I initially chose an Arduino Uno as the control system, due to their low cost and ease of use. However, I wasn't able to achieve smooth servo movements with the arduino, so I swapped to a more powerful RaspberryPi. This had the added benefit of allowing me to update the control software wirelessly via SSH.
 
